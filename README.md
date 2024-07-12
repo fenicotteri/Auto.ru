@@ -3,7 +3,7 @@ This is my Lab Research.
 
 The point is: collect the data, choose AI model and train it.
 During the research i`ve analyzed the selection,
-have learned new types of models, have choosen three
+learned new types of models, choosen three
 suitable once and tested them.
 
 Parser for auto.ru:
